@@ -1,0 +1,628 @@
+{
+ "updatedAt": 1,
+ "brand": {
+  "name": "NOIR",
+  "tagline": "Karanlığın en zarif hali."
+ },
+ "seo": {
+  "title": "NOIR — Premium Teknoloji",
+  "description": "Ses, zaman ve görüntü için tasarlanmış premium teknoloji ürünleri."
+ },
+ "theme": {
+  "accent": "#0a84ff",
+  "defaultMode": "dark",
+  "radius": 28,
+  "intro": true,
+  "grain": true,
+  "smoothScroll": true
+ },
+ "announcement": {
+  "enabled": true,
+  "text": "₺2.500 üzeri siparişlerde ücretsiz ve aynı gün kargo.",
+  "link": "#/shop"
+ },
+ "hero": {
+  "eyebrow": "Yeni Koleksiyon · 2026",
+  "title": "Sessizliği",
+  "highlight": "yeniden tasarladık.",
+  "subtitle": "Saf alüminyum, kusursuz ses ve gece kadar derin bir siyah. NOIR, teknolojiyi bir sanat eserine dönüştürür.",
+  "ctaPrimary": "Koleksiyonu Keşfet",
+  "ctaSecondary": "Filmi İzle",
+  "model": "blob",
+  "show3d": true
+ },
+ "marquee": {
+  "items": [
+   "Uzamsal Ses",
+   "Titanyum Gövde",
+   "40 Saat Pil",
+   "Aktif Gürültü Engelleme",
+   "Safir Cam",
+   "Karbon Nötr",
+   "Ömür Boyu Destek"
+  ]
+ },
+ "statement": {
+  "text": "Her detay bir karar. Her karar bir duygu. Biz gereksiz olan her şeyi çıkardık; geriye yalnızca hissettiğin kaldı."
+ },
+ "showcase": {
+  "title": "Işığın bittiği yerde",
+  "subtitle": "tasarım başlar.",
+  "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=1200&q=80",
+  "caption": "Slate Book — 14 saat pil, 1 kg altı ağırlık."
+ },
+ "featured": {
+  "title": "Öne Çıkanlar",
+  "subtitle": "Kaydır ve keşfet. Her biri, kendi kategorisinin zirvesinde.",
+  "productIds": [
+   "aura-max",
+   "echo-buds",
+   "chrono",
+   "monolith",
+   "slate-book"
+  ]
+ },
+ "bento": {
+  "title": "Neden NOIR?",
+  "subtitle": "Küçük detaylar, büyük fark.",
+  "items": [
+   {
+    "id": "b1",
+    "title": "Uzamsal Ses",
+    "text": "Başının hareketini takip eden, odanın ortasında duruyormuş gibi hissettiren ses.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+    "size": "lg"
+   },
+   {
+    "id": "b2",
+    "title": "40 saat",
+    "text": "Tek şarjla bir haftalık müzik.",
+    "size": "sm"
+   },
+   {
+    "id": "b3",
+    "title": "Titanyum",
+    "text": "Uzay sınıfı malzeme, tüy kadar hafif.",
+    "size": "sm"
+   },
+   {
+    "id": "b4",
+    "title": "Stüdyonu kur",
+    "text": "Masandaki her şey, birbiriyle uyumlu.",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&w=1200&q=80",
+    "size": "md"
+   },
+   {
+    "id": "b5",
+    "title": "Ömür boyu destek",
+    "text": "Bir kez al, sonsuza kadar biz yanındayız.",
+    "size": "md"
+   }
+  ]
+ },
+ "productsSection": {
+  "title": "Tüm Ürünler",
+  "subtitle": "Seçilmiş, test edilmiş, sevilmiş."
+ },
+ "stats": [
+  {
+   "value": 120,
+   "suffix": "K+",
+   "label": "Mutlu müşteri"
+  },
+  {
+   "value": 4.9,
+   "suffix": "/5",
+   "label": "Ortalama puan"
+  },
+  {
+   "value": 48,
+   "suffix": " saat",
+   "label": "İçinde kargoda"
+  },
+  {
+   "value": 2,
+   "suffix": " yıl",
+   "label": "Garanti"
+  }
+ ],
+ "testimonials": {
+  "title": "İnsanlar ne diyor?",
+  "items": [
+   {
+    "id": "t1",
+    "name": "Elif Y.",
+    "role": "Müzik Prodüktörü",
+    "text": "Aura Max taktığım an stüdyo dışarıda kaldı. Bu kadar temiz bir ses beklemiyordum.",
+    "rating": 5
+   },
+   {
+    "id": "t2",
+    "name": "Can D.",
+    "role": "Yazılım Mühendisi",
+    "text": "Paketi açarken bile bir deneyim. Kutusundan kablosuna kadar her şey düşünülmüş.",
+    "rating": 5
+   },
+   {
+    "id": "t3",
+    "name": "Zeynep K.",
+    "role": "Fotoğrafçı",
+    "text": "Lumen ile gece çekimlerinde fark inanılmaz. Siteden almak da çok keyifliydi.",
+    "rating": 5
+   },
+   {
+    "id": "t4",
+    "name": "Mert A.",
+    "role": "Mimar",
+    "text": "Masamdaki her ürün NOIR. Tasarım dili o kadar tutarlı ki her şey birbirini tamamlıyor.",
+    "rating": 4
+   },
+   {
+    "id": "t5",
+    "name": "Deniz S.",
+    "role": "Öğrenci",
+    "text": "Echo Buds ile kütüphane sessizliği her yerde. Pil bitmek bilmiyor.",
+    "rating": 5
+   }
+  ]
+ },
+ "newsletter": {
+  "title": "İlk sen haberdar ol.",
+  "text": "Yeni ürünler, özel lansmanlar ve yalnızca üyelere açık fırsatlar.",
+  "button": "Abone Ol"
+ },
+ "sections": [
+  {
+   "key": "hero",
+   "enabled": true
+  },
+  {
+   "key": "marquee",
+   "enabled": true
+  },
+  {
+   "key": "statement",
+   "enabled": true
+  },
+  {
+   "key": "featured",
+   "enabled": true
+  },
+  {
+   "key": "showcase",
+   "enabled": true
+  },
+  {
+   "key": "bento",
+   "enabled": true
+  },
+  {
+   "key": "products",
+   "enabled": true
+  },
+  {
+   "key": "stats",
+   "enabled": true
+  },
+  {
+   "key": "testimonials",
+   "enabled": true
+  },
+  {
+   "key": "newsletter",
+   "enabled": true
+  }
+ ],
+ "categories": [
+  {
+   "id": "ses",
+   "name": "Ses"
+  },
+  {
+   "id": "giyilebilir",
+   "name": "Giyilebilir"
+  },
+  {
+   "id": "bilgisayar",
+   "name": "Bilgisayar"
+  },
+  {
+   "id": "fotograf",
+   "name": "Fotoğraf"
+  },
+  {
+   "id": "aksesuar",
+   "name": "Aksesuar"
+  }
+ ],
+ "products": [
+  {
+   "id": "aura-max",
+   "name": "Aura Max",
+   "tagline": "Sessizliğin sesi.",
+   "category": "ses",
+   "description": "Uyarlanabilir aktif gürültü engelleme, uzamsal ses ve 40 saat pil ömrüyle Aura Max, kulak üstü kulaklıkta yeni bir standart. Bellek köpüklü yastıklar saatlerce konfor sağlar.",
+   "price": 12999,
+   "comparePrice": 14999,
+   "images": [
+    "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Gece",
+     "hex": "#1c1c1e"
+    },
+    {
+     "name": "Gümüş",
+     "hex": "#d1d1d6"
+    },
+    {
+     "name": "Kum",
+     "hex": "#c8b79e"
+    }
+   ],
+   "badge": "Yeni",
+   "stock": 24,
+   "rating": 4.9,
+   "features": [
+    "Aktif gürültü engelleme",
+    "Uzamsal ses",
+    "40 saat pil",
+    "USB-C hızlı şarj"
+   ],
+   "featured": true,
+   "active": true
+  },
+  {
+   "id": "aura-studio",
+   "name": "Aura Studio",
+   "tagline": "Stüdyo, her yerde.",
+   "category": "ses",
+   "description": "Referans kalitesinde sürücüler ve el yapımı ahşap detaylarla Aura Studio, müziği yapıldığı gibi duymak isteyenler için.",
+   "price": 8999,
+   "images": [
+    "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Ceviz",
+     "hex": "#8b5a2b"
+    },
+    {
+     "name": "Krom",
+     "hex": "#c0c0c0"
+    }
+   ],
+   "stock": 12,
+   "rating": 4.8,
+   "features": [
+    "50 mm sürücüler",
+    "Ceviz ahşap",
+    "Değiştirilebilir kablo"
+   ],
+   "featured": false,
+   "active": true
+  },
+  {
+   "id": "echo-buds",
+   "name": "Echo Buds Pro",
+   "tagline": "Küçük. Güçlü. Kusursuz.",
+   "category": "ses",
+   "description": "Kulağına tam oturan tasarım, şeffaf mod ve kablosuz şarj kutusuyla toplam 36 saat dinleme.",
+   "price": 5499,
+   "comparePrice": 6299,
+   "images": [
+    "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Obsidyen",
+     "hex": "#0b0b0c"
+    },
+    {
+     "name": "Kar",
+     "hex": "#f2f2f7"
+    }
+   ],
+   "badge": "Çok Satan",
+   "stock": 58,
+   "rating": 4.7,
+   "features": [
+    "Şeffaf mod",
+    "Kablosuz şarj",
+    "IPX5 su direnci"
+   ],
+   "featured": true,
+   "active": true
+  },
+  {
+   "id": "chrono",
+   "name": "Chrono",
+   "tagline": "Zamanın en sade hali.",
+   "category": "giyilebilir",
+   "description": "Safir cam, seramik kasa ve 14 günlük pil. Chrono, sağlığını sessizce takip eder; sen sadece yaşa.",
+   "price": 9499,
+   "images": [
+    "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Beyaz",
+     "hex": "#f5f5f7"
+    },
+    {
+     "name": "Grafit",
+     "hex": "#3a3a3c"
+    }
+   ],
+   "stock": 18,
+   "rating": 4.8,
+   "features": [
+    "Safir cam",
+    "14 gün pil",
+    "Nabız ve uyku takibi"
+   ],
+   "featured": true,
+   "active": true
+  },
+  {
+   "id": "monolith",
+   "name": "Monolith",
+   "tagline": "Odanı dolduran ses.",
+   "category": "ses",
+   "description": "Çift woofer ve oda kalibrasyonlu Monolith, bulunduğu mekâna göre sesini ayarlar.",
+   "price": 15999,
+   "images": [
+    "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Gece",
+     "hex": "#111"
+    }
+   ],
+   "badge": "Sınırlı",
+   "stock": 6,
+   "rating": 4.9,
+   "features": [
+    "Oda kalibrasyonu",
+    "Hi-Res ses",
+    "Çoklu oda"
+   ],
+   "featured": true,
+   "active": true
+  },
+  {
+   "id": "lumen",
+   "name": "Lumen",
+   "tagline": "Geceyi yakala.",
+   "category": "fotograf",
+   "description": "Tam kare sensör ve yapay zekâ destekli gece modu ile Lumen, karanlığı bir tuvale dönüştürür.",
+   "price": 42999,
+   "images": [
+    "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Siyah",
+     "hex": "#0a0a0a"
+    }
+   ],
+   "stock": 4,
+   "rating": 5,
+   "features": [
+    "Tam kare sensör",
+    "8K video",
+    "Gece modu"
+   ],
+   "featured": false,
+   "active": true
+  },
+  {
+   "id": "slate-book",
+   "name": "Slate Book",
+   "tagline": "İnce. Hafif. Durdurulamaz.",
+   "category": "bilgisayar",
+   "description": "14 saat pil, 1 kg altı ağırlık ve göz alıcı bir ekran. Slate Book her yere seninle gelir.",
+   "price": 54999,
+   "comparePrice": 59999,
+   "images": [
+    "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Uzay Grisi",
+     "hex": "#4a4a4f"
+    },
+    {
+     "name": "Gümüş",
+     "hex": "#e3e4e6"
+    }
+   ],
+   "stock": 9,
+   "rating": 4.8,
+   "features": [
+    "14 saat pil",
+    "120 Hz ekran",
+    "1 kg altı"
+   ],
+   "featured": true,
+   "active": true
+  },
+  {
+   "id": "slate-tab",
+   "name": "Slate Tab",
+   "tagline": "Fikirlerin için bir tuval.",
+   "category": "bilgisayar",
+   "description": "Kenardan kenara ekran ve kalem desteğiyle Slate Tab, çizmek, yazmak ve izlemek için.",
+   "price": 21999,
+   "images": [
+    "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Grafit",
+     "hex": "#2c2c2e"
+    }
+   ],
+   "stock": 15,
+   "rating": 4.6,
+   "features": [
+    "11\" ekran",
+    "Kalem desteği",
+    "Gün boyu pil"
+   ],
+   "featured": false,
+   "active": true
+  },
+  {
+   "id": "keys",
+   "name": "Keys",
+   "tagline": "Her tuşta bir his.",
+   "category": "aksesuar",
+   "description": "Alüminyum gövdeli, düşük profilli mekanik klavye. Sessiz ama tatmin edici.",
+   "price": 3999,
+   "images": [
+    "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Beyaz",
+     "hex": "#f5f5f7"
+    },
+    {
+     "name": "Gece",
+     "hex": "#1c1c1e"
+    }
+   ],
+   "stock": 40,
+   "rating": 4.7,
+   "features": [
+    "Mekanik anahtarlar",
+    "Çoklu cihaz",
+    "Arka aydınlatma"
+   ],
+   "featured": false,
+   "active": true
+  },
+  {
+   "id": "shade",
+   "name": "Shade",
+   "tagline": "Güneşe karşı stil.",
+   "category": "aksesuar",
+   "description": "Polarize lensler ve hafif çerçeve. Shade, gün ışığını yumuşatır, tarzını keskinleştirir.",
+   "price": 2499,
+   "images": [
+    "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=1200&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Siyah",
+     "hex": "#000"
+    }
+   ],
+   "stock": 30,
+   "rating": 4.5,
+   "features": [
+    "Polarize",
+    "UV400",
+    "Hafif çerçeve"
+   ],
+   "featured": false,
+   "active": true
+  }
+ ],
+ "coupons": [
+  {
+   "code": "NOIR10",
+   "type": "percent",
+   "value": 10,
+   "active": true
+  },
+  {
+   "code": "HOSGELDIN",
+   "type": "fixed",
+   "value": 500,
+   "active": true
+  }
+ ],
+ "shipping": {
+  "freeOver": 2500,
+  "fee": 149
+ },
+ "footer": {
+  "about": "NOIR, sade ve zamansız teknoloji ürünleri tasarlar. Daha az ama daha iyi.",
+  "columns": [
+   {
+    "title": "Mağaza",
+    "links": [
+     {
+      "label": "Tüm Ürünler",
+      "href": "#/shop"
+     },
+     {
+      "label": "Ses",
+      "href": "#/shop?c=ses"
+     },
+     {
+      "label": "Giyilebilir",
+      "href": "#/shop?c=giyilebilir"
+     },
+     {
+      "label": "Bilgisayar",
+      "href": "#/shop?c=bilgisayar"
+     }
+    ]
+   },
+   {
+    "title": "Destek",
+    "links": [
+     {
+      "label": "Kargo ve İade",
+      "href": "#/"
+     },
+     {
+      "label": "Garanti",
+      "href": "#/"
+     },
+     {
+      "label": "İletişim",
+      "href": "#/"
+     }
+    ]
+   },
+   {
+    "title": "NOIR",
+    "links": [
+     {
+      "label": "Hakkımızda",
+      "href": "#/"
+     },
+     {
+      "label": "Kariyer",
+      "href": "#/"
+     },
+     {
+      "label": "Basın",
+      "href": "#/"
+     }
+    ]
+   }
+  ],
+  "social": {
+   "instagram": "#",
+   "x": "#",
+   "youtube": "#"
+  },
+  "copyright": "© 2026 NOIR. Tüm hakları saklıdır."
+ },
+ "admin": {
+  "passwordHash": "",
+  "salt": ""
+ }
+}

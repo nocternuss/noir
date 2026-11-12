@@ -1,2 +1,3 @@
-# noir
-NOIR — Premium teknoloji mağazası
+# NOIR
+
+Bu depo yalnızca yayınlanmış site dosyalarını içerir.
